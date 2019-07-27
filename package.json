@@ -1,0 +1,12 @@
+{
+  "name": "node-my-renault-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rikardwissing/node-my-renault-example.git",
+  "author": "rikardwissing <hi@rikard.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "node-gigya-api": "https://github.com/rikardwissing/node-gigya-api.git",
+    "node-my-renault-api": "https://github.com/rikardwissing/node-my-renault-api.git"
+  }
+}
